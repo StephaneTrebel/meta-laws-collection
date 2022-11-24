@@ -1,2 +1,13 @@
-# meta-laws-collection
+= meta-laws-collection
+:toc:
+
 A collection of meta-laws you'll need to stay sane
+
+== The list
+
+=== Goodhart's law
+
+https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's law]
+
+[sidebar]
+When a measure becomes a target, it ceases to be a good measure.
