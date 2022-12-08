@@ -28,7 +28,7 @@ Individuals can modify an aspect of their behavior in response to their awarenes
 
 === Peter Principle
 
-https://en.m.wikipedia.org/wiki/Peter_principle[Peter Principle]
+https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 
 [sidebar]
 In a hierarchy, every employee tends to rise to his level of incompetence.
