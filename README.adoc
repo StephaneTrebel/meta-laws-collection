@@ -19,6 +19,13 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's law]
 [sidebar]
 When a measure becomes a target, it ceases to be a good measure.
 
+=== Hawthorne Effect
+
+https://en.wikipedia.org/wiki/Hawthorne_effect[Hawthorne Effect]
+
+[sidebar]
+Individuals can modify an aspect of their behavior in response to their awareness of being observed.
+
 === Peter Principle
 
 https://en.m.wikipedia.org/wiki/Peter_principle[Peter Principle]
