@@ -19,6 +19,13 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
 [sidebar]
 When a measure becomes a target, it ceases to be a good measure.
 
+=== Hanlon's Razor
+
+https://en.wikipedia.org/wiki/Hanlon%27s_razor[Hanlon's Razor]
+
+[sidebar]
+Never attribute to malice that which is adequately explained by stupidity.
+
 === Hawthorne Effect
 
 https://en.wikipedia.org/wiki/Hawthorne_effect[Hawthorne Effect]
