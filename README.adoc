@@ -12,6 +12,13 @@ https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines[Betteridge's Law]
 [sidebar]
 Any headline that ends in a question mark can be answered by the word no.
 
+=== Chesterton's Fence
+
+https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence[Chesterton's Fence]
+
+[sidebar]
+Reforms should not be made until the reasoning behind the existing state of affairs is understood.
+
 === Conway's Law
 
 https://en.wikipedia.org/wiki/Conway%27s_law[Conway's Law]
