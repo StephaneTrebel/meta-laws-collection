@@ -1,7 +1,10 @@
 = meta-laws-collection
 :toc:
 
-A collection of meta-laws you'll need to stay sane
+A collection of meta-laws you'll need to stay sane.
+
+This is a curated list of https://en.wikipedia.org/wiki/List_of_eponymous_laws[the Wikipedia one].
+Many thanks to them !
 
 == The list
 
