@@ -50,6 +50,13 @@ https://en.wikipedia.org/wiki/Hawthorne_effect[Hawthorne Effect]
 [sidebar]
 Individuals can modify an aspect of their behavior in response to their awareness of being observed.
 
+=== Hofstadter's Law
+
+https://en.wikipedia.org/wiki/Hofstadter's_law[Hofstadter's Law]
+
+[sidebar]
+It always takes longer than you expect, even when you take into account Hofstadter's Law.
+
 === Peter Principle
 
 https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
