@@ -71,6 +71,13 @@ https://en.wikipedia.org/wiki/Hofstadter's_law[Hofstadter's Law]
 [sidebar]
 It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
+=== Hyrum's Law
+
+https://www.hyrumslaw.com[Hyrum's Law]
+
+[sidebar]
+With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+
 === Peter Principle
 
 https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
