@@ -84,3 +84,10 @@ https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 
 [sidebar]
 In a hierarchy, every employee tends to rise to his level of incompetence.
+
+=== Tesler's Law
+
+https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity[Tesler's Law]
+
+[sidebar]
+An application inherent complexity can never be removed, nor hidden, only dealt with trade-offs.
