@@ -78,6 +78,13 @@ https://www.hyrumslaw.com[Hyrum's Law]
 [sidebar]
 With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
 
+=== Lindy Effect
+
+https://en.wikipedia.org/wiki/Lindy_effect[Lindy Effect]
+
+[sidebar]
+The longer a period something non-perishable has survived to exist or be used in the present, the longer its remaining life expectancy.
+
 === Murphy's Law
 
 https://en.wikipedia.org/wiki/Murphy's_law[Murphy's Law]
