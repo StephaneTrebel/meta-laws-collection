@@ -92,6 +92,14 @@ https://en.wikipedia.org/wiki/Murphy's_law[Murphy's Law]
 [sidebar]
 Anything that can go wrong will go wrong.
 
+=== Parkinson's Law
+
+https://en.wikipedia.org/wiki/Parkinson%27s_law[Parkinson's Law]
+
+[sidebar]
+The duration of work expands to fill its allotted time span, regardless of the amount of work to be done.
+
+
 === Peter Principle
 
 https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
