@@ -43,6 +43,13 @@ https://en.wikipedia.org/wiki/Conway%27s_law[Conway's Law]
 [sidebar]
 Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure.
 
+=== Dunning-Kruger Effect
+
+https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect[Dunning-Kruger Effect]
+
+[sidebar]
+People with limited competence in a particular domain overestimate their abilities. Corrolary: High performers have a tendency to underestimate their skills in their domain of expertise.
+
 === Goodhart's Law
 
 https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
