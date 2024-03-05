@@ -106,13 +106,19 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law[Parkinson's Law]
 [sidebar]
 The duration of work expands to fill its allotted time span, regardless of the amount of work to be done.
 
-
 === Peter Principle
 
 https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 
 [sidebar]
 In a hierarchy, every employee tends to rise to his level of incompetence.
+
+=== Shirky Principle
+
+https://en.wikipedia.org/wiki/Clay_Shirky#Shirky_principle[Shirky Principle]
+
+[sidebar]
+Institutions will try to preserve the problem to which they are the solution.
 
 === Tesler's Law
 
