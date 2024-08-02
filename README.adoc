@@ -126,3 +126,11 @@ https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity[Tesler's Law]
 
 [sidebar]
 An application inherent complexity can never be removed, nor hidden, only dealt with trade-offs.
+
+=== Wirth's Law
+
+https://en.wikipedia.org/wiki/Wirth%27s_law[Wirth's Law]
+
+
+[sidebar]
+Software is getting slower more rapidly than hardware is becoming faster.
