@@ -92,6 +92,14 @@ https://en.wikipedia.org/wiki/Lindy_effect[Lindy Effect]
 [sidebar]
 The longer a period something non-perishable has survived to exist or be used in the present, the longer its remaining life expectancy.
 
+=== Maslow's Hammer
+
+https://en.m.wikipedia.org/wiki/Law_of_the_instrument[Maslow's Hammer]
+
+
+[sidebar]
+If the only tool you have is a hammer, it is tempting to treat everything as if it were a nail..
+
 === Murphy's Law
 
 https://en.wikipedia.org/wiki/Murphy's_law[Murphy's Law]
