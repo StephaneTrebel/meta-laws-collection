@@ -6,6 +6,9 @@ A collection of meta-laws you'll need to stay sane.
 This is a curated list of https://en.wikipedia.org/wiki/List_of_eponymous_laws[the Wikipedia one].
 Many thanks to them !
 
+If you want a more extensive list, there is also https://github.com/dwmkerr/hacker-laws[Hacker-Laws], although it tends to go way beyond the scope I'm trying to focus on.
+Many thanks to them, also !
+
 == The list
 
 === Betteridge's Law
