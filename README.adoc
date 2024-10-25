@@ -124,12 +124,14 @@ https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 [sidebar]
 In a hierarchy, every employee tends to rise to his level of incompetence.
 
-=== Pournelle's iron law of bureaucracy
+=== Pournelle's Law
 
 https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy[Pournelle's iron law of bureaucracy]
 
 [sidebar]
 In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals that the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.
+
+See also <<Shirky Principle>>
 
 === Shirky Principle
 
@@ -137,6 +139,8 @@ https://en.wikipedia.org/wiki/Clay_Shirky#Shirky_principle[Shirky Principle]
 
 [sidebar]
 Institutions will try to preserve the problem to which they are the solution.
+
+See also <<Pournelle's Law>>
 
 === Tesler's Law
 
