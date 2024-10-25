@@ -124,6 +124,13 @@ https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 [sidebar]
 In a hierarchy, every employee tends to rise to his level of incompetence.
 
+=== Pournelle's iron law of bureaucracy
+
+https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy[Pournelle's iron law of bureaucracy]
+
+[sidebar]
+In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals that the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.
+
 === Shirky Principle
 
 https://en.wikipedia.org/wiki/Clay_Shirky#Shirky_principle[Shirky Principle]
@@ -141,7 +148,6 @@ An application inherent complexity can never be removed, nor hidden, only dealt 
 === Wirth's Law
 
 https://en.wikipedia.org/wiki/Wirth%27s_law[Wirth's Law]
-
 
 [sidebar]
 Software is getting slower more rapidly than hardware is becoming faster.
