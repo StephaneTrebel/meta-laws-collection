@@ -60,9 +60,9 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
 [sidebar]
 When a measure becomes a target, it ceases to be a good measure.
 
-=== EROOM Law
+=== EROOM-Nitot's Law
 
-https://www.linkedin.com/posts/nitot_moore-eroom-activity-7245507802541035520-F_t6?utm_source=share&utm_medium=member_deskto[La loi d'EROOM]
+https://blog.octo.com/pour-en-finir-avec-la-loi-de-moore[La loi d'EROOM de Tristan Nitot]
 
 NOTE: «EROOM» is a wordplay on reversing https://en.wikipedia.org/wiki/Moore's_law[Moore's Law] and backronyming it to the french «Effort Radicalement Organisé d'Optimisation en Masse» (which can be loosely translated to «Massive and radically organized optimization effort»).
 
