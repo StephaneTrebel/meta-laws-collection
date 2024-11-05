@@ -60,6 +60,15 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
 [sidebar]
 When a measure becomes a target, it ceases to be a good measure.
 
+=== EROOM Law
+
+https://www.linkedin.com/posts/nitot_moore-eroom-activity-7245507802541035520-F_t6?utm_source=share&utm_medium=member_deskto[La loi d'EROOM]
+
+NOTE: «EROOM» is a wordplay on reversing https://en.wikipedia.org/wiki/Moore's_law[Moore's Law] and backronyming it to the french «Effort Radicalement Organisé d'Optimisation en Masse» (which can be loosely translated to «Massive and radically organized optimization effort»).
+
+[sidebar]
+We need to commit to optimize existing software with a factor of two every two years.
+
 === Hanlon's Razor
 
 https://en.wikipedia.org/wiki/Hanlon%27s_razor[Hanlon's Razor]
