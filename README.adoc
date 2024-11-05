@@ -53,6 +53,13 @@ https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect[Dunning-Kruger Effec
 [sidebar]
 People with limited competence in a particular domain overestimate their abilities. Corrolary: High performers have a tendency to underestimate their skills in their domain of expertise.
 
+=== Gall's Law
+
+https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law[Gall's Law]
+
+[sidebar]
+A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
+
 === Goodhart's Law
 
 https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
