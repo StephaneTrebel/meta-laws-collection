@@ -60,6 +60,13 @@ https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law[Gall's Law]
 [sidebar]
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 
+=== Gell-Mann Amnesia effect
+
+https://en.wiktionary.org/wiki/Gell-Mann_Amnesia_effect[Gell-Mann Amnesia effect]
+
+[sidebar]
+The phenomenon of a person trusting a source for topics which that person is not knowledgeable about, despite recognizing the source as being extremely inaccurate on certain topics which that person is knowledgeable about.
+
 === Goodhart's Law
 
 https://en.wikipedia.org/wiki/Goodhart%27s_law[Goodhart's Law]
